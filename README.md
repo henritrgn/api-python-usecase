@@ -1,13 +1,13 @@
 [Step 1.1]
-Avoir les URL des cartes de Noir et Blanc dans un fichier .txt
+Have the URLs of the Black and White cards in a .txt file
 
 
 [Step 1.2]
-Avoir les images des cartes Noir et Blanc dans une archive .zip
+Have the images of the Black and White cards in a .zip archive
 
 
 [Step 2]
-En vu d'une intégration sur le logiciel Godot (application pour jouer contre une IA) :
+With a view to integration into the Godot software (application for playing against AI):
 
-- Lister les caractéristiques essentielles au bon fonctionnement ;
-- Extraire les infos pour un formatage adapté à Godot par la suite.
+- List the characteristics essential for proper functioning.
+- Extract the information for formatting suitable for Godot later on.
