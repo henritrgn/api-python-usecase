@@ -7,5 +7,5 @@ Have the images of the Black and White cards in a .zip archive
 
 # Step 2 : Visualize information about BW Collection Card
 #### Goals : 
-- List the characteristics essential for proper functioning.
-- Extract the information for formatting suitable for Godot later on.
+- List the characteristics essential for convenient functionning.
+- Extract the information for formatting data for Godot later on.
